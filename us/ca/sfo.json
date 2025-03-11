@@ -621,6 +621,99 @@
         "CVR_Export_20201201091840.zip": "323d569c29478e35123d739ac8f84e6225ef2cda"
       },
       "website": "https://sfelections.sfgov.org/november-3-2020-election-results-summary"
+    },
+    "2024/11": {
+      "name": "Consolidated General Election",
+      "date": "2024-11-03",
+      "dataFormat": "nist_sp_1500",
+      "tabulationOptions": null,
+      "normalization": "simple",
+      "contests": [
+        {
+          "office": "city-atty",
+          "loaderParams": {
+            "contest": "19",
+            "cvr": "CVR_Export_20241202143051.zip",
+            "dropUnqualifiedWriteIn": "true"
+          }
+        },
+        {
+          "office": "da",
+          "loaderParams": {
+            "contest": "21",
+            "cvr": "CVR_Export_20241202143051.zip",
+            "dropUnqualifiedWriteIn": "true"
+          }
+        },
+        {
+          "office": "sheriff",
+          "loaderParams": {
+            "contest": "22",
+            "cvr": "CVR_Export_20241202143051.zip",
+            "dropUnqualifiedWriteIn": "true"
+          }
+        },
+        {
+          "office": "mayor",
+          "loaderParams": {
+            "contest": "18",
+            "cvr": "CVR_Export_20241202143051.zip",
+            "dropUnqualifiedWriteIn": "true"
+          }
+        },
+        {
+          "office": "supervisor-d01",
+          "loaderParams": {
+            "contest": "23",
+            "cvr": "CVR_Export_20241202143051.zip",
+            "dropUnqualifiedWriteIn": "true"
+          }
+        },
+        {
+          "office": "supervisor-d03",
+          "loaderParams": {
+            "contest": "24",
+            "cvr": "CVR_Export_20241202143051.zip",
+            "dropUnqualifiedWriteIn": "true"
+          }
+        },
+        {
+          "office": "supervisor-d05",
+          "loaderParams": {
+            "contest": "25",
+            "cvr": "CVR_Export_20241202143051.zip",
+            "dropUnqualifiedWriteIn": "true"
+          }
+        },
+        {
+          "office": "supervisor-d07",
+          "loaderParams": {
+            "contest": "26",
+            "cvr": "CVR_Export_20241202143051.zip",
+            "dropUnqualifiedWriteIn": "true"
+          }
+        },
+        {
+          "office": "supervisor-d09",
+          "loaderParams": {
+            "contest": "27",
+            "cvr": "CVR_Export_20241202143051.zip",
+            "dropUnqualifiedWriteIn": "true"
+          }
+        },
+        {
+          "office": "supervisor-d11",
+          "loaderParams": {
+            "contest": "28",
+            "cvr": "CVR_Export_20241202143051.zip",
+            "dropUnqualifiedWriteIn": "true"
+          }
+        }
+      ],
+      "files": {
+        "CVR_Export_20241202143051.zip": "abc753451fd791908b819de87b8765543445f0fc"
+      },
+      "website": "https://sfelections.org/results/20241105w/index.html"
     }
   }
 }
